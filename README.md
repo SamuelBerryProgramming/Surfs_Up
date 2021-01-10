@@ -1,12 +1,13 @@
-# Overview
+# Analysis of Oahu Weather
+## Overview
 Temperature analysis of weather for June and December in Oahu to determine ice cream shop hours. 
 
-# Results
+## Results
 * The minimum temperature for June was 64, versus a minimum of 56 in December
 * The maximum temperature in December was 83, only two degrees less than the June maximum of 85
 * Average temperature for June was 74.9, while December's average was 71.0
 
-# Summary
+## Summary
 [June Statistics](https://github.com/SamuelBerryProgramming/Surfs_Up/blob/main/june_temps.png)
 [December Statistics](https://github.com/SamuelBerryProgramming/Surfs_Up/blob/main/december_temps.png)
 
