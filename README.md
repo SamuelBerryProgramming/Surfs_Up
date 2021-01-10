@@ -7,7 +7,7 @@ Temperature analysis of weather for June and December in Oahu to determine ice c
 * Average temperature for June was 74.9, while December's average was 71.0
 
 # Summary
-[June Statistics]()
-[December Statistics]()
+[June Statistics](https://github.com/SamuelBerryProgramming/Surfs_Up/blob/main/june_temps.png)
+[December Statistics](https://github.com/SamuelBerryProgramming/Surfs_Up/blob/main/december_temps.png)
 
    Although temperatures in December are cooler than in June, the third quartiles of 77 in June and 74 in December show that ice cream sales are possible in both months. The standard deviations of each month are similar, showing that the weather is almost always mild or warm. 
